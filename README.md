@@ -1,32 +1,13 @@
-
 # Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Luke Sanborn, and I'm a full-stack software engineer and current CS student @ Princeton. I'm from the US, and currently working at GPTZero. You can find me on [![LinkedIn][3.2]][3].
+My name is Luke, and I'm a full-stack software engineer and current CS student @ Princeton. You can find me on [LinkedIn](https://www.linkedin.com/in/luke-sanborn/) or check out my website at [lukesanborn.com](https://lukesanborn.com).
 
+## Recent Projects
 
-## &#x1f4c8; GitHub Stats
+- **[Blood JEPA (`neo-hackathon26`)](https://github.com/lukesanborn/neo-hackathon26)** ([Demo Video](https://youtu.be/uh4AxUN4i0U)): Reimplemented Cell-JEPA vs. scGPT on Modal B300 GPUs for CRISPR perturbation retrieval.
 
-<a href="https://github.com/imLightSpeed/imLightSpeed">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imLightSpeed&theme=dracula&layout=compact&langs_count=4" />
-</a>
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/342a9891-e875-4c79-835f-6c54891a9227" />
 
+- **[Jigsaw](https://github.com/charlespers/Jigsaw)** ([Demo Video](https://youtu.be/mqWAE7ZexAk)): Winner of the Business Track at HackPrinceton 2025. AI-powered PCB design and BOM generation from natural language using MCP.
 
-<!-- links to social media icons -->
-
-<!-- icons with padding -->
-
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
-
-<!-- icons without padding -->
-
-[2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-[3.2]: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/25px-LinkedIn_logo_initials.png (LinkedIn icon without padding)
-
-
-<!-- links to your social media accounts -->
-
-[2]: https://github.com/imLightSpeed
-[3]: https://www.linkedin.com/in/luke-sanborn/
-
-
+<!-- Drag and drop your image here in the GitHub editor -->
