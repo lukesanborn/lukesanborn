@@ -1,6 +1,6 @@
 # Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Luke, and I'm a full-stack software engineer and current CS student @ Princeton. You can find me on [LinkedIn](https://www.linkedin.com/in/luke-sanborn/) or check out my website at [lukesanborn.com](https://lukesanborn.com).
+My name is Luke, and I'm a full-stack software engineer and current CS student @ Princeton. You can find me on [LinkedIn](https://www.linkedin.com/in/luke-sanborn/).
 
 ## Recent Projects
 
