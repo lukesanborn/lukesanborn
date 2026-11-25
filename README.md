@@ -10,4 +10,6 @@ My name is Luke, and I'm a full-stack software engineer and current CS student @
 
 - **[Jigsaw](https://github.com/charlespers/Jigsaw)** ([Demo Video](https://youtu.be/mqWAE7ZexAk)): Winner of the Business Track at HackPrinceton 2025. AI-powered PCB design and BOM generation from natural language using MCP.
 
+<img width="2122" height="1182" alt="image" src="https://github.com/user-attachments/assets/bf00b0a7-c5a1-4a10-8b89-b10b4639300c" />
+
 <!-- Drag and drop your image here in the GitHub editor -->
